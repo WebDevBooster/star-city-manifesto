@@ -1,2 +1,7 @@
-# star-city-manifesto
-Star City Manifesto
+# Star City Manifesto
+
+Status:  
+In development.  
+Everything below is subject to change.
+
+
