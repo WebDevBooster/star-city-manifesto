@@ -18,7 +18,7 @@ Everything below is subject to change.
 
 * **[Starlendar](https://github.com/WebDevBooster/Starlendar)**: A *new* calendar system for Star City
 
-* **[***********]**: A *new kind* of cryptocurrency designed for turning the Star City project into reality and to serve as the official currency of Star City (currently in secret development)
+* **[***************]**: A *new kind* of cryptocurrency designed for turning the Star City project into reality and to serve as the official currency of Star City (currently in secret development)
 
 * **[StarAdmin](https://github.com/WebDevBooster/StarAdmin)**: Star City's administration
 
