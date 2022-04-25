@@ -16,7 +16,7 @@ Everything below is subject to change.
 
 * **[Dvorak-Booster keyboard layout](https://github.com/WebDevBooster/Dvorak-Booster-Keyboard-Layout)**: Better optimized for typing in English than standard Dvorak, better optimized for programming than Programmer Dvorak & perfect for dozenal
 
-* **[Starlendar](https://github.com/WebDevBooster/Starlendar)**: A *new* calendar system for Star City
+* **[Starlendar](https://github.com/WebDevBooster/Starlendar)**: A *new calendar* system for Star City and a new era of humanity
 
 * **[***************]**: A *new kind* of cryptocurrency designed for turning the Star City project into reality and to serve as the official currency of Star City (currently in secret development)
 
