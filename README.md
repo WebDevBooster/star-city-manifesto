@@ -26,4 +26,12 @@ Everything below is subject to change.
 
 --- 
 
+Too many things are wrong in this world and too many incompetent idiots are in charge. But instead of complaining, we want to build Star City — a new, independent city-state (new country on the map) that shows an alternative. We want to *demonstrate* that our alternative is superior, more sustainable and more fun. And if we succeed in this endeavor, others are welcome to use this new mega-city, use Star City as a model and a shining beacon to follow. 
+
+In a real-life scenario of a mega-city with up to 100 million residents, Star City aims to demonstrate how to solve some of the world's biggest problems. Problems that humanity is facing today and will be facing even more in the future. 
+
+Star City aims to become the undisputed world leader in science and technology. Using science and technology we aim to turn this 100-million-people-strong mega-city into the greenest, most sustainable and most fun mega-city on the planet. Join us if you want to be part of this! 
+
+100 million people is roughly the population of Germany, Austria and Switzerland combined. And the citizens of Star City will enjoy a higher living standard than most people in those countries.
+
 
